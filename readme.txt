@@ -12,7 +12,7 @@ This is a Linden Scripting Language (LSL) brush for the "SyntaxHighlighter Evolv
 
 Programmer bloggers writing about Second Life and using Linden Scripting Language (LSL) examples on their WordPress sites often tend to have problems in displaying LSL properly so that it can be easily copied & pasted; it happens to me all the time! Fortunately, there is a way out: Viper007Bond wrote an excellent syntax highlighter (*SyntaxHighlighter Evolved*) which has easy support for additional languages. This is what this plugin does: it just extends Viper007Bond's plugin without fuss.
 
-It is a brush designed to work with the [SyntaxHighlighter Evolved]: http://wordpress.org/extend/plugins/syntaxhighlighter/ WordPress plugin (written by Viper), itself based on the SyntaxHighlighter JavaScript package by Alex Gorbatchev. To be able to use this brush, you will need the SyntaxHighlighter Evolved plugin installed.
+It is a brush designed to work with the [SyntaxHighlighter Evolved](http://wordpress.org/extend/plugins/syntaxhighlighter/) WordPress plugin (written by Viper), itself based on the SyntaxHighlighter JavaScript package by Alex Gorbatchev. To be able to use this brush, you will need the SyntaxHighlighter Evolved plugin installed.
 
 To highlight your LSL code, simply wrap it between `[lsl]` and `[/lsl]` tags.
 
@@ -24,13 +24,13 @@ Instructions follow the same outline as the *asm-brush*, a brush for *SyntaxHigh
 
 = Uploading The Plugin =
 
-Extract all files from the ZIP file, making sure to keep the file/folder structure intact, and then upload it to /wp-content/plugins/.
+Extract all files from the ZIP file, making sure to keep the file/folder structure intact, and then upload it to `/wp-content/plugins/`.
 
 = Plugin Usage =
 
 Make sure you have the "SyntaxHighlighter Evolved" plugin installed first!
 
-Wrap your assembly language code between `[lsl]` and `[/lsl]`.
+Wrap your Linden Scripting Language code between `[lsl]` and `[/lsl]`.
 
 == Frequently Asked Questions ==
 
