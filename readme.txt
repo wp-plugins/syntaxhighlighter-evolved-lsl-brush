@@ -16,7 +16,7 @@ It is a brush designed to work with the [SyntaxHighlighter Evolved](http://wordp
 
 To highlight your LSL code, simply wrap it between `[lsl]` and `[/lsl]` tags.
 
-LSL syntax is current as of February 2011 (source: Official SL Wiki) and recognises a few obsolete keywords as well.
+LSL syntax is current as of February 2011 (source: Official SL Wiki) and recognises a few obsolete keywords as well. CSS Styles are as similar as possible to what the SL Viewer 2 displays.
 
 Instructions follow the same outline as the *asm-brush*, a brush for *SyntaxHighlighter Evolved* developed by chlankboot, and the plugin structure itself is as suggested by Viper007Bond. 
 
@@ -43,6 +43,10 @@ By editing the `shBrushLsl.js` file.
 1. Sample LSL code formatted with syntaxhighlighter-evolved-lsl
 
 == Changelog ==
+
+= 1.1.0 =
+
+Adds styling to highlighting to make it more similar to LSL as displayed by the SL Viewer
 
 = 1.0.0 =
 
