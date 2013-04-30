@@ -16,7 +16,7 @@ It is a brush designed to work with the [SyntaxHighlighter Evolved](http://wordp
 
 To highlight your LSL code, simply wrap it between `[lsl]` and `[/lsl]` tags. On some setups, it's better to use `<pre class='lang: lsl;'>` `</pre>`.
 
-LSL syntax is current as of April 2013 (source: [Official Second Life Wiki(http://wiki.secondlife.com/)]/[Cool VL Viewer](http://sldev.free.fr/)), recognises a few obsolete keywords (for backwards compatibility), and adds OpenSimulator-specific commands as well (source: [Cool VL Viewer](http://sldev.free.fr/)). CSS Styles are as similar as possible to what the SL Viewer 2 displays (but you can choose the normal styling as well, too).
+LSL syntax is current as of April 2013 (source: [Official Second Life Wiki](http://wiki.secondlife.com/)/[Cool VL Viewer](http://sldev.free.fr/)), recognises a few obsolete keywords (for backwards compatibility), and adds OpenSimulator-specific commands as well (source: [Cool VL Viewer](http://sldev.free.fr/)). CSS Styles are as similar as possible to what the SL Viewer 2 displays (but you can choose the normal styling as well, too).
 
 Instructions follow the same outline as the *asm-brush*, a brush for *SyntaxHighlighter Evolved* developed by chlankboot, and the plugin structure itself is as suggested by Viper007Bond. 
 
