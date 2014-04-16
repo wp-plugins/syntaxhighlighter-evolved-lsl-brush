@@ -3,7 +3,7 @@ Contributors: GwynethLlewelyn
 Donate link: http://gwynethllewelyn.net/
 Tags: code, sourcecode, php, xhtml, html, css, highlight, syntax, second life, lsl, linden scripting language
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 3.9
 Stable tag: trunk
 
 This is a Linden Scripting Language (LSL) brush for the "SyntaxHighlighter Evolved" plugin, the scripting language used in Second Life.
